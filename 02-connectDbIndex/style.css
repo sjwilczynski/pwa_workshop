@@ -1,0 +1,15 @@
+body {
+    /* width: 100%; */
+    box-sizing: border-box;
+    padding: 30px;
+}
+
+img {
+    max-width: 30%;
+    float: left;
+}
+
+.images {
+    width: 100%;
+    margin: 20px;
+}
